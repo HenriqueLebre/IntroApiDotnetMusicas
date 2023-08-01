@@ -1,0 +1,15 @@
+C:\Users\Henrique Lebre\source\repos\IntroApiDonetMusicas\bin\Debug\net6.0\IntroApiDotnetMusicas.exe
+C:\Users\Henrique Lebre\source\repos\IntroApiDonetMusicas\bin\Debug\net6.0\IntroApiDotnetMusicas.deps.json
+C:\Users\Henrique Lebre\source\repos\IntroApiDonetMusicas\bin\Debug\net6.0\IntroApiDotnetMusicas.runtimeconfig.json
+C:\Users\Henrique Lebre\source\repos\IntroApiDonetMusicas\bin\Debug\net6.0\IntroApiDotnetMusicas.dll
+C:\Users\Henrique Lebre\source\repos\IntroApiDonetMusicas\bin\Debug\net6.0\IntroApiDotnetMusicas.pdb
+C:\Users\Henrique Lebre\source\repos\IntroApiDonetMusicas\obj\Debug\net6.0\IntroApiDotnetMusicas.csproj.AssemblyReference.cache
+C:\Users\Henrique Lebre\source\repos\IntroApiDonetMusicas\obj\Debug\net6.0\IntroApiDotnetMusicas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Henrique Lebre\source\repos\IntroApiDonetMusicas\obj\Debug\net6.0\IntroApiDotnetMusicas.AssemblyInfoInputs.cache
+C:\Users\Henrique Lebre\source\repos\IntroApiDonetMusicas\obj\Debug\net6.0\IntroApiDotnetMusicas.AssemblyInfo.cs
+C:\Users\Henrique Lebre\source\repos\IntroApiDonetMusicas\obj\Debug\net6.0\IntroApiDotnetMusicas.csproj.CoreCompileInputs.cache
+C:\Users\Henrique Lebre\source\repos\IntroApiDonetMusicas\obj\Debug\net6.0\IntroApiDotnetMusicas.dll
+C:\Users\Henrique Lebre\source\repos\IntroApiDonetMusicas\obj\Debug\net6.0\refint\IntroApiDotnetMusicas.dll
+C:\Users\Henrique Lebre\source\repos\IntroApiDonetMusicas\obj\Debug\net6.0\IntroApiDotnetMusicas.pdb
+C:\Users\Henrique Lebre\source\repos\IntroApiDonetMusicas\obj\Debug\net6.0\IntroApiDotnetMusicas.genruntimeconfig.cache
+C:\Users\Henrique Lebre\source\repos\IntroApiDonetMusicas\obj\Debug\net6.0\ref\IntroApiDotnetMusicas.dll
